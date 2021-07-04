@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Mairtín Cunneen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "University of Limerick"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "
+(edit)
+I am a lecturer in Data Analytics and Risk Governance in the Accounting and Finance dept. in the Kemmy Business School, University of Limerick. My research focuses on investigating the science of Data Analytics in terms of societal relations. This often concerns questions and topics relating to Explainable AI (XAI), Algorithmic Bias, Black Box decision making, Data Profiling, Data Commodification and Risk, Autonomous Vehicle Decision making, InsurTech, AI in Education, AI Assistants (Language theory & NLP) and Societal Risks due to Data Profiling. I am also interested in AI and technology for social good and especially the use of innovation to support climate risk mitigation."
+  location         : "Kemmy Business School"
+  employer         : "University of Limerick"
   googlescholar    : "https://scholar.google.com/citations?authuser=1&user=00KrP9QAAAAJ"
   email            : "martin.cunneen@ul.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
