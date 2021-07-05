@@ -83,10 +83,10 @@ author:
   name             : "Mairtin Cunneen"
   avatar           : "profile.png"
   bio              : "Lecturer in Data Analytics and Risk Governance"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Limerick, Ireland"
+  employer         : "University of Limerick"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?authuser=1&user=00KrP9QAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@emergtechethics"
   vine             :
   weibo            :
   xing             :
