@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Mairtin Cunneen"
   avatar           : "profile.png"
   bio              : "Lecturer in Data Analytics and Risk Governance"
   location         : "Limerick, Ireland"
