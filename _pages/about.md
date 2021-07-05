@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This site aims to introduce my academic work in terms of both my research and research led teaching.
+"This site aims to introduce my academic work in terms of both my research and research led teaching."
 
 A data-driven personal website
 ======
