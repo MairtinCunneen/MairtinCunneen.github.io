@@ -1,5 +1,8 @@
 ---
-title: "Ethical AI for Automated Bus Lane Enforcement"
+Publications 2021:
+
+---
+"Ethical AI for Automated Bus Lane Enforcement"
 ---
 collection: publications
 
