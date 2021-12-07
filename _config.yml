@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr Mairtin Cunneen / Data and AI Governance Innovation"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mairtin Cunneen"
+description              : &description "I am a lecturer in Data Analytics and Risk Governance in the Accounting and Finance dept. in the Kemmy Business School, University of Limerick. My research focuses on investigating the science of Data Analytics in terms of societal relations. This often concerns questions and topics relating to Explainable AI (XAI), Algorithmic Bias, Black Box decision making, Data Profiling, Data Commodification and Risk, Autonomous Vehicle Decision making, InsurTech, AI in Education, AI Assistants (Language theory & NLP) and Societal Risks due to Data Profiling. I am also interested in AI and technology for social good and especially the use of innovation to support climate risk mitigation."
+url                      : https://mairtincunneen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr Mairin Cunneen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Lecturer in Data Analytics and Risk Governance, Kemmy Business School, The University of Limerick"
+  location         : "Limerick, Ireland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=00KrP9QAAAAJ&sortby=pubdate&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Mairtincunneen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Emergtechethics"
   vine             :
   weibo            :
   xing             :
