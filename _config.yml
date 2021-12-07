@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "I am a lecturer in Data Analytics and Risk Governance in the Accounting and Finance dept. in the Kemmy Business School, University of Limerick. My research focuses on investigating the science of Data Analytics in terms of societal relations. This often concerns questions and topics relating to Explainable AI (XAI), Algorithmic Bias, Black Box decision making, Data Profiling, and Data Commodification and societal Risk."
   location         : "University of Limerick"
-  work             : "https://www.ul.ie/research/dr-martin-cunneen"
+  employer         : "https://www.ul.ie/research/dr-martin-cunneen"
   googlescholar    : "https://scholar.google.com/citations?authuser=1&user=00KrP9QAAAAJ"
   email            : "martin.cunneen@ul.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
