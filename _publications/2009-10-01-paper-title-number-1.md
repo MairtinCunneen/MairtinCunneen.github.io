@@ -13,7 +13,7 @@ excerpt: 'There is an explosion of camera surveillance in our cities today. As a
 
 date: 2021-10-01
 
-venue: 'Sustainability'
+Journal: 'Sustainability'
 
 paperurl: 'https://www.mdpi.com/2071-1050/13/21/11579/htm'
 
@@ -37,7 +37,7 @@ excerpt: 'The European Union (EU) has a strong reputation and track record for t
 
 date: 2021-10-08
 
-venue: 'Patterns'
+Journal: 'Patterns'
 
 paperurl: 'https://www.cell.com/patterns/fulltext/S2666-3899(21)00224-5'
 
@@ -62,7 +62,7 @@ excerpt: 'On the path to high-level vehicle automation, the degree of surveillan
 
 date: 2021-08-01
 
-venue: 'Technology in Society'
+Journal: 'Technology in Society'
 
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0160791X21001421'
 
@@ -93,7 +93,7 @@ excerpt: 'The introduction of connected and autonomous vehicles (CAVs) to the ro
 
 date: 2021-08-01
 
-venue: 'Risk Management and Insurance'
+Journal: 'Risk Management and Insurance'
 
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/rmir.12168'
 
