@@ -47,19 +47,19 @@ Sample of Student Feedback
 ---
 Module Reading and Related texts:
 ---
-A. M. Turing (1950) Computing Machinery and Intelligence , Mind 49: 433-460
+A. M. Turing (1950) Computing Machinery and Intelligence, Mind 49: 433-460
 
 McCarthy, J., Minsky, M., Rochester, N., & Shannon, C. E (1955) A proposal for the Dartmouth summer research project on artificial intelligence , http://www.formal.stanford.edu /jmc/history/dartmouth/dartmouth.html
 
-Searle, J. R. (1980) Minds, brains and programs. , Behavioral and Brain Sciences, 3, 417-457
+Searle, J. R. (1980) Minds, brains and programs., Behavioral and Brain Sciences, 3, 417-457
 
 Dreyfus, H. L. (1992) What computers still can't do: A critique of artificial reason , MIT Press
 
-Calo, Ryan (2017) Artificial Intelligence Policy: A Primer and Roadmap , Available at SSRN: https://ssrn.com/abstract=3015350 or http://dx.doi.org/10.2139/ssrn.3015350
+Calo, Ryan (2017) Artificial Intelligence Policy: A Primer and Roadmap, Available at SSRN: https://ssrn.com/abstract=3015350 or http://dx.doi.org/10.2139/ssrn.3015350
 
-Gasser, Urs, and Virgilio A.F. Almeida (2017) A Layered Model for AI Governance , IEEE Internet Computing 21 (6) (November): 58-62. doi:10.1109/mic.2017.4180835
+Gasser, Urs, and Virgilio A.F. Almeida (2017) A Layered Model for AI Governance, IEEE Internet Computing 21 (6) (November): 58-62. doi:10.1109/mic.2017.4180835
 
-Johnson, D.G. & Verdicchio, M. (2017) Reframing AI Discourse , Minds & Machines 27: 575
+Johnson, D.G. & Verdicchio, M. (2017) Reframing AI Discourse, Minds & Machines 27: 575
 
 ---
 My Related Research :
