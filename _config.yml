@@ -80,14 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Mairin Cunneen"
+  name             : "Dr Mairtin Cunneen"
   avatar           : "profile.png"
   bio              : "Lecturer in Data Analytics and Risk Governance, Kemmy Business School, The University of Limerick"
   location         : "Limerick, Ireland"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=00KrP9QAAAAJ&sortby=pubdate&authuser=1"
-  email            :
+  email            : "martin.cunneen@ul.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/"
+  orcid            : "https://orcid.org/0000-0003-4590-9309"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
