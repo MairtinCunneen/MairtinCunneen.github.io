@@ -94,7 +94,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  foursquare       : "https://www.ul.ie/research/dr-martin-cunneen"
   github           : "https://mairtincunneen.github.io/"
   google_plus      :
   keybase          :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0003-4590-9309"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
