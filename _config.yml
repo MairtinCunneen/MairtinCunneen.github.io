@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""Mairtín Cunneen / AI Governance"
+title                    : "Mairtín Cunneen / AI Governance"
 title_separator          : "-"
 name                     : &name "Mairtín Cunneen"
 description              : &description ""Lecturer Data Analytics and Risk Governance, Kemmy Business School, University of Limerick""
