@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mairtín Cunneen"
+title                    : ""Mairtín Cunneen / AI Governance"
 title_separator          : "-"
 name                     : &name "Mairtín Cunneen"
-description              : &description "Lecturer Data Analytics and Risk Governance, Kemmy Business School, University of Limerick"
+description              : &description ""Lecturer Data Analytics and Risk Governance, Kemmy Business School, University of Limerick""
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "Emergtechethics"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "I am a lecturer in Data Analytics and Risk Governance in the Accounting and Finance dept. in the Kemmy Business School, University of Limerick. My research focuses on investigating the science of Data Analytics in terms of societal relations. This often concerns questions and topics relating to Explainable AI (XAI), Algorithmic Bias, Black Box decision making, Data Profiling, and Data Commodification and societal Risk."
   location         : "University of Limerick"
-  employer         : "https://www.ul.ie/research/dr-martin-cunneen"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?authuser=1&user=00KrP9QAAAAJ"
   email            : "martin.cunneen@ul.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,7 +95,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       : 
+  foursquare       :
   github           : "https://mairtincunneen.github.io/"
   google_plus      :
   keybase          :
