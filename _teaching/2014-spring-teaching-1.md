@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Limerick, Accounting and Finance"
-date: 2018-present
+date: 2014-spring-teaching
 location: "Limerick, Ireland"
 ---
 
