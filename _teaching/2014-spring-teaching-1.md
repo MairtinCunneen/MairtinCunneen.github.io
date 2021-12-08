@@ -1,14 +1,13 @@
 ---
-title: "Ireland's National MSc in Artificial Intelligence"
+title: "Ireland's National AI MSc
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University of Limerick, Department, Accounting and Finance"
-date: 2021-01-30
+permalink: /teaching/2014-spring-teaching-1
+venue: "University of Limerick, Accounting and Finance"
+date: 2018-present
 location: "Limerick, Ireland"
 ---
 
----
 Module Description:
 ---
 
