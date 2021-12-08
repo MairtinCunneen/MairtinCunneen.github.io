@@ -1,5 +1,5 @@
 ---
-title: "Ireland's National AI MSc
+title: "Ireland's National AI MSc"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -15,7 +15,8 @@ This module aims to support the MSc in Artificial Intelligence by providing a co
 
 ---
 Module Outline:
----
+=====
+
 1. (a) Define AI (b) Explore AI in different contexts (c) Interrogate the variance of AI design and the potential challenges that variation presents to AI. (d) The societal challenges to AI technologies. (e) Support the framing of AI by developing conceptual frameworks that are informed by questions of  risk, ethics and governance. (f) Learn how to engage with emerging and future AI technologies in terms of these frameworks. Accordingly, the module aims to provide students with an understanding of the concepts of risk, ethics, and governance in the context of AI and emerging AI technologies. To achieve this, it is necessary, to first provide a contextual understanding of the concept of AI and the challenges it poses to framing accurate metrics of risk, ethics and governance.
 
 2. The contextual understanding relates to the need to develop an informed technological framework as not only an important metric to AI research itself but also as a metric intrinsic to supporting accurate anticipatory risk and governance research. The challenge of conceptually framing AI is the first knowledge output of the module.
@@ -28,7 +29,7 @@ Module Outline:
 
 ---
 Sample of Student Feedback
----
+=====
 "Martin is very knowledgeable within the field and passionate about their specialisation."
 
 "This module changes positively my manner of thinking"
@@ -45,7 +46,7 @@ Sample of Student Feedback
 
 ---
 Module Reading and Related texts:
----
+=====
 A. M. Turing (1950) Computing Machinery and Intelligence, Mind 49: 433-460
 
 McCarthy, J., Minsky, M., Rochester, N., & Shannon, C. E (1955) A proposal for the Dartmouth summer research project on artificial intelligence , http://www.formal.stanford.edu /jmc/history/dartmouth/dartmouth.html
@@ -62,7 +63,7 @@ Johnson, D.G. & Verdicchio, M. (2017) Reframing AI Discourse, Minds & Machines 2
 
 ---
 My Related Research :
----
+=====
 Cunneen, M., Mullins, M., & Murphy, F. (2019). Autonomous vehicles and embedded artificial intelligence: The challenges of framing machine driving decisions. Applied Artificial Intelligence, 33(8), 706-731.
 
 Cunneen, M., Mullins, M., Murphy, F., & Gaines, S. (2019). Artificial driving intelligence and moral agency: Examining the decision ontology of unavoidable road traffic accidents through the prism of the trolley dilemma. Applied Artificial Intelligence, 33(3), 267-293.
