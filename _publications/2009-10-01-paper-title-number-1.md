@@ -1,4 +1,7 @@
----
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2009-10-01
+
 Publications 2021:
 ---
 Paper 1
@@ -17,7 +20,7 @@ Journal: 'Sustainability'
 
 paperurl: 'https://www.mdpi.com/2071-1050/13/21/11579/htm'
 
-citation: 'Lannon, C., Nelson, J., & Cunneen, M. (2021). Ethical AI for Automated Bus Lane Enforcement. Sustainability, 13(21), 11579.'
+Recomended citation: 'Lannon, C., Nelson, J., & Cunneen, M. (2021). Ethical AI for Automated Bus Lane Enforcement. Sustainability, 13(21), 11579.'
 
 This paper is about addressing the challenge of using AI for social and environmental good. It presents research that addresses the key problem of bus lane use and optimisation to support climate risk mitigation by using ethically informed AI
 
