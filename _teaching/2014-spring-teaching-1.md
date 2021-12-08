@@ -2,7 +2,7 @@
 title: "Ireland's National AI MSc"
 collection: teaching
 type: "Postgraduate course"
-permalink: /autumn-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Limerick, Accounting and Finance"
 date: 2021-09-01
 location: "Limerick, Ireland"
