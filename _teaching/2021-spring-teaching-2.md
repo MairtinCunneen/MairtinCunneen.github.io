@@ -39,13 +39,12 @@ Sample of Student Feedback
 
 ---
 Module Reading and Related texts: 
-=====
+
 Nissenbaum, H. (2009). Privacy in context. Stanford University Press.
 
 Lupton D (2016) Digital risk society. In: Burgess A, Alemanno A and Zinn J (eds.) The Routledge handbook of risk studies. , Routledge
 
 ---
 Other texts:
-=====
 
 Cunneen et al. (2018) "Framing Risk, The New Phenomenon Of Data Surveillance And Data Monetisation; From An ‘Always-On’culture To ‘Always-On’artificial Intelligence Assistants." Hybrid Worlds: 65.
