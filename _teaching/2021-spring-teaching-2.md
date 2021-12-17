@@ -3,7 +3,7 @@ title: "MSc Business Analytics, IN6062 Data Governance and Ethics"
 collection: teaching
 type: "Lectures and Group Project Workshops"
 permalink: /teaching/2015-spring-teaching-2
-venue: "Uinversity of Limerick, Accounting and Finance"
+venue: "University of Limerick, Accounting and Finance"
 date: 2021-01-31
 location: "Limerick, Ireland"
 ---
