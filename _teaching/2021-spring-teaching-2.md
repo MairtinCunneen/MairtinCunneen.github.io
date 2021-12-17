@@ -41,7 +41,8 @@ Sample of Student Feedback
 (anonymous student feedback 2020)
 
 ---
-Module Reading and Related texts: 
+Module Reading and Related texts:
+---
 
 Nissenbaum, H. (2009). Privacy in context. Stanford University Press.
 
